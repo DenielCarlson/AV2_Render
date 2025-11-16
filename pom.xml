@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>facul</groupId>
-	<artifactId>Ex_Swagger</artifactId>
+	<artifactId>AV2_Render</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Ex_Swagger</name>
 	<description>Demo project for Spring Boot</description>
