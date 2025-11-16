@@ -8,7 +8,7 @@ RUN mvn clean install -DskipTests
 
 FROM eclipse-temurin:21-jdk-alpine
 
-EXPOSE 8080
+EXPOSE 8081
 
 COPY --from=build /target/AV2_Render-0.0.1-SNAPSHOT.jar app.jar
 
